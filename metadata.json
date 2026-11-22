@@ -1,0 +1,6 @@
+{
+  "name": "Pamzz Gold Store",
+  "description": "Luxurious gold jewelry store in Kubwa, Abuja, Nigeria. Discover timeless elegance, gold necklaces, rings, bracelets, and bespoke luxury accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
